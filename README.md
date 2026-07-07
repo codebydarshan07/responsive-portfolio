@@ -54,6 +54,13 @@ git clone https://github.com/codebydarshan07/responsive-portfolio.git
 
 ---
 
+## 🌐 Live Demo
+
+**Website:**  
+https://codebydarshan07.github.io/responsive-portfolio/
+
+---
+
 ## 📸 Screenshots
 ### Home Page
 <img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/36387f48-1e44-48ce-95fd-9c9f8508dda0" />
